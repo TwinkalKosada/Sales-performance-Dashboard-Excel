@@ -1,7 +1,7 @@
 # Sales-performance-Dashboard-Excel
 Sales Performance Dashboard project with executive summary and insights on sales trends, profitability, and operations.
 
-# Project Objective
+## Project Objective
 The objective of this project is to analyze the sales performance of a company across different regions, product categories, and shipping modes.
 The dashboard provides an executive-level summary of sales trends, profitability, and operational efficiency, with the goal of supporting better business decisions.
 
