@@ -50,7 +50,7 @@ Data Modeling & Relationship
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](https://github.com/TwinkalKosada/Sales-performance-Dashboard-Excel/blob/main/Sales%20Performance%20Dashboard.png)
 
 ## What I Learned
 
