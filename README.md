@@ -64,7 +64,7 @@ How to communicate insights effectively through both visualization and summary r
 
 ## Let’s Connect
 
-If you’re a recruiter, analyst, or fellow learner, feel free to connect with me on [LinkedIn](www.linkedin.com/in/twinkal-kosada-4909ba266)
+If you’re a recruiter, analyst, or fellow learner, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/twinkal-kosada-4909ba266/)
 . I’d be happy to share ideas, get feedback, or collaborate.
 
 
