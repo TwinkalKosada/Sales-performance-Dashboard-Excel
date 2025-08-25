@@ -43,6 +43,24 @@ Data Modeling & Relationship
 
 ##Dataset Source
 
-Dataset: 
-Source: Publicly available `[sample dataset] (https://www.kaggle.com/datasets/ahmedsamir11111/project-data-analysis-using-excel) from kaggle
-Purpose: Learning project and portfolio showcase
+## Dataset Source  
+
+- Dataset: Publicly available sample dataset from [Kaggle](https://www.kaggle.com/datasets/ahmedsamir11111/project-data-analysis-using-excel)  
+- Purpose: Learning project and portfolio showcase
+
+## Dashboard Preview
+
+![Sales Performance Dashboard](dashboard.png)
+
+## What I Learned
+
+How to design and structure an Excel-based sales dashboard for executive-level reporting.
+
+How to analyze sales performance by region, product category, and shipping mode.
+
+The importance of identifying high-return products to manage risks.
+
+How to communicate insights effectively through both visualization and summary reporting.
+
+
+
