@@ -35,5 +35,5 @@ Data Modeling & Relationship
 Dataset Source
 
 Dataset: 
-Source: Publicly available sample dataset for educational/portfolio use
+Source: Publicly available `[sample dataset] (https://www.kaggle.com/datasets/ahmedsamir11111/project-data-analysis-using-excel) from kaggle
 Purpose: Learning project and portfolio showcase
